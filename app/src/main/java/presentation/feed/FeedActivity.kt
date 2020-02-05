@@ -4,7 +4,6 @@ import android.content.Context
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.Menu
 import android.widget.ImageButton
 import android.widget.ImageView
 import androidx.lifecycle.Observer
@@ -21,6 +20,7 @@ import com.cfgdemelo.iddog.presentation.feed.FeedViewModel.Companion.PUG
 import com.cfgdemelo.iddog.presentation.feed.adapter.FeedAdapter
 import com.cfgdemelo.iddog.presentation.feed.adapter.ItemClick
 import com.cfgdemelo.iddog.presentation.utils.fullscreenDialog
+import com.cfgdemelo.iddog.presentation.utils.toast
 import kotlinx.android.synthetic.main.activity_feed.*
 import org.koin.androidx.viewmodel.ext.android.viewModel
 
@@ -71,6 +71,10 @@ class FeedActivity : AppCompatActivity(), ItemClick {
     private fun configViewModelObservers() {
         viewModel.feed.observe(this, Observer {
             adapter.refresh(it.list)
+        })
+
+        viewModel.error.observe(this, Observer {
+            toast(it)
         })
     }
 

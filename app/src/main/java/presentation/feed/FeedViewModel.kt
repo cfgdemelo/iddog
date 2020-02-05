@@ -12,6 +12,9 @@ class FeedViewModel(private val feedUseCase: FeedUseCase): ViewModel() {
     private val _feed = MutableLiveData<FeedPayload>()
     val feed: LiveData<FeedPayload> = _feed
 
+    private val _error = MutableLiveData<String>()
+    val error: LiveData<String> = _error
+
     init {
         getNewFeed()
     }
@@ -23,7 +26,7 @@ class FeedViewModel(private val feedUseCase: FeedUseCase): ViewModel() {
                     _feed.value = this
                 }
             } catch (exception: Throwable) {
-                exception.printStackTrace()
+                _error.value = exception.message
             }
         }
     }
