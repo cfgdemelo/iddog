@@ -7,9 +7,9 @@ import androidx.lifecycle.Observer
 import com.cfgdemelo.iddog.R
 import com.cfgdemelo.iddog.presentation.utils.textWatcherEmail
 import com.cfgdemelo.iddog.presentation.utils.toast
-import com.cfgdemelo.iddog.presentation.utils.toastLong
 import kotlinx.android.synthetic.main.activity_login.*
 import org.koin.androidx.viewmodel.ext.android.viewModel
+import presentation.feed.FeedActivity
 
 class LoginActivity: AppCompatActivity() {
 
@@ -26,7 +26,7 @@ class LoginActivity: AppCompatActivity() {
         etEmail.textWatcherEmail(viewModel.isValidEmailMutable)
 
         btLogin.setOnClickListener {
-            viewModel.login(etEmail.text.toString())
+            viewModel.login(this, etEmail.text.toString())
         }
     }
 
@@ -47,8 +47,11 @@ class LoginActivity: AppCompatActivity() {
             toast(it)
         })
 
-        viewModel.response.observe(this, Observer {
-            toastLong(it)
+        viewModel.logged.observe(this, Observer {
+            if (it) {
+                toast(getString(R.string.you_are_logged))
+                startActivity(FeedActivity.newInstance(this))
+            }
         })
     }
 }

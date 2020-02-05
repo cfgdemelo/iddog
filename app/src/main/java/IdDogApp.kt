@@ -3,10 +3,11 @@ package com.cfgdemelo.iddog
 import android.app.Application
 import com.cfgdemelo.iddog.data.di.dataModule
 import com.cfgdemelo.iddog.domain.di.domainModule
+import com.cfgdemelo.iddog.presentation.di.presentationModule
 import org.koin.android.ext.koin.androidContext
 import org.koin.android.ext.koin.androidLogger
 import org.koin.core.context.startKoin
-import presentation.di.presentationModule
+
 
 class IdDogApp: Application() {
     override fun onCreate() {
@@ -15,7 +16,7 @@ class IdDogApp: Application() {
         startKoin {
             androidLogger()
             androidContext(this@IdDogApp)
-            modules(listOf(presentationModule, domainModule, dataModule))
+            modules(listOf(dataModule, domainModule, presentationModule))
         }
     }
 }

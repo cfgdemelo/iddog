@@ -1,0 +1,4 @@
+#Wed Feb 05 16:27:11 ART 2020
+base.0=/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

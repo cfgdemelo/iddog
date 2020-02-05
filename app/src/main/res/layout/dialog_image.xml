@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/darkTransparent">
+
+    <ImageButton
+        android:id="@+id/ibClose"
+        android:layout_width="@dimen/button_close_size"
+        android:layout_height="@dimen/button_close_size"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:background="@drawable/ic_close"
+        android:contentDescription="@string/contentDescriptionClose"
+        app:layout_constraintBottom_toTopOf="@id/ivDetailImage"
+        app:layout_constraintEnd_toEndOf="@id/ivDetailImage"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.5" />
+
+    <ImageView
+        android:id="@+id/ivDetailImage"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginHorizontal="@dimen/dialog_photo_margin_horizontal"
+        android:layout_marginVertical="@dimen/dialog_photo_margin_vertical"
+        android:contentDescription="@string/contentDescription"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/ibClose" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

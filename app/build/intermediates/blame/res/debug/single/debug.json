@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_husky.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_husky.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pug.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_pug.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_labrador.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_labrador.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/layout_item_feed.xml.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/src/main/res/layout/item_feed.xml"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_close.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_close.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_pug.xml.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_pug.xml"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_pug.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_pug.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_hound.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_hound.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_close.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-ldpi/ic_close.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_hound.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-hdpi/ic_hound.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_hound.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_hound.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_labrador.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_labrador.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_husky.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-ldpi/ic_husky.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_husky.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-mdpi/ic_husky.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_husky.xml.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_husky.xml"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pug.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_pug.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_labrador.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-hdpi/ic_labrador.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_close.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_close.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_close.xml.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_close.xml"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_pug.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-ldpi/ic_pug.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_close.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-mdpi/ic_close.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_husky.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_husky.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_hound.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_hound.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_labrador.xml.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_labrador.xml"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_pug.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-mdpi/ic_pug.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_husky.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_husky.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_pug.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-hdpi/ic_pug.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/menu_menu_feed.xml.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/src/main/res/menu/menu_feed.xml"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_labrador.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-mdpi/ic_labrador.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/layout_activity_feed.xml.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/src/main/res/layout/activity_feed.xml"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_labrador.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_labrador.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/layout_dialog_image.xml.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/src/main/res/layout/dialog_image.xml"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_hound.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-mdpi/ic_hound.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_close.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-hdpi/ic_close.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable_nav_item_color_state.xml.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/src/main/res/drawable/nav_item_color_state.xml"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_hound.xml.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_hound.xml"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_labrador.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-ldpi/ic_labrador.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_close.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_close.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_husky.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-hdpi/ic_husky.png"
+    },
+    {
+        "merged": "/Users/caio.melo/Git/teste/secret/iddog/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_hound.png.flat",
+        "source": "/Users/caio.melo/Git/teste/secret/iddog/app/build/generated/res/pngs/debug/drawable-ldpi/ic_hound.png"
+    }
+]
