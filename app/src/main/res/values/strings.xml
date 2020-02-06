@@ -15,5 +15,5 @@
     <string name="pug">Pug</string>
     <string name="contentDescription">Dog image</string>
     <string name="contentDescriptionClose">Close image</string>
-    <string name="you_are_logged">You are already logged</string>
+    <string name="you_are_logged">You are already logged in</string>
 </resources>

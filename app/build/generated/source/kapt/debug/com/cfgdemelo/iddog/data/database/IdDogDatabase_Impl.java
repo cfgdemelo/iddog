@@ -88,7 +88,7 @@ public final class IdDogDatabase_Impl extends IdDogDatabase {
         final TableInfo _infoUSER = new TableInfo("USER", _columnsUSER, _foreignKeysUSER, _indicesUSER);
         final TableInfo _existingUSER = TableInfo.read(_db, "USER");
         if (! _infoUSER.equals(_existingUSER)) {
-          return new RoomOpenHelper.ValidationResult(false, "USER(data.model.User).\n"
+          return new RoomOpenHelper.ValidationResult(false, "USER(com.cfgdemelo.iddog.data.model.User).\n"
                   + " Expected:\n" + _infoUSER + "\n"
                   + " Found:\n" + _existingUSER);
         }

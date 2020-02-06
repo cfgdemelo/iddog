@@ -5,4 +5,5 @@
     <dimen name="dialog_photo_margin_horizontal">24dp</dimen>
     <dimen name="dialog_photo_margin_vertical">48dp</dimen>
     <dimen name="button_close_size">48dp</dimen>
+    <dimen name="progress_bar_margin">100dp</dimen>
 </resources>

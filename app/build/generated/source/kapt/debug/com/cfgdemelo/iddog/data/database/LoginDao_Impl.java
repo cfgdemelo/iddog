@@ -8,7 +8,7 @@ import androidx.room.RoomSQLiteQuery;
 import androidx.room.util.CursorUtil;
 import androidx.room.util.DBUtil;
 import androidx.sqlite.db.SupportSQLiteStatement;
-import data.model.User;
+import com.cfgdemelo.iddog.data.model.User;
 import java.lang.Exception;
 import java.lang.Object;
 import java.lang.Override;
